@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on FredP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,12 +13,16 @@
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>What&amp;rsquo;s my name?
+Fred P
+ Where am I from?
+Currently in Fort Worth TX. Originally from New York. Interests..
+Mindlessly fidgeting on things that have no impact on my life at all. Where you work
+10x15 room with 4 walls and a door. Where I went to school
+City University of New York at Baruch  The other pages on this site represent my work that I have completed for school and/or work.</description>
     </item>
     
   </channel>
